@@ -11,6 +11,7 @@ function App() {
       <p>new thing s on a field</p>
       <p>ho ho ho</p>
       <p>funny thing</p>
+      <p>hello</p>
     </div>
   );
 }
