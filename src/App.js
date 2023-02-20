@@ -12,6 +12,7 @@ function App() {
       <p>ho ho ho</p>
       <p>funny thing</p>
       <p>hello</p>
+      <h1>sridhar</h1>
     </div>
   );
 }
